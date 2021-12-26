@@ -15,7 +15,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    padding: 24px;
+    padding: 39px;
   }
   img.logo {
     max-width: 300px;
@@ -30,7 +30,7 @@ body {
 .content {
     background-color: #fff;
     border-radius: 15px;
-    width: 960px;
+    width: 1500px;
     height: 50%;
     justify-content: space-between;
     align-items: center;
@@ -49,7 +49,7 @@ body {
     left: 0;
 }
 .title {
-    font-size: 28px;
+    font-size: 50px;
     font-weight: bold;
     text-transform: capitalize;
 }
@@ -60,7 +60,7 @@ body {
     color: #005500;
 }
 .description {
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 300;
     line-height: 30px;
 }
@@ -71,14 +71,14 @@ body {
     color: #7f8c8d;
 }
 .btn {
-    border-radius: 15px;
+    border-radius: 38px;
     text-transform: uppercase;
     color: #fff;
     font-size: 10px;
     padding: 10px 50px;
     cursor: pointer;
     font-weight: bold;
-    width: 150px;
+    width: 197px;
     align-self: center;
     border: none;
     margin-top: 1rem;
